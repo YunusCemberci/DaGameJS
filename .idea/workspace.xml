@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93f3a55f-6f87-4b8e-9cc1-6e4fef99e820" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/films.html" beforeDir="false" afterPath="$PROJECT_DIR$/films.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/books.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/films.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="123" column="86" selection-start-line="123" selection-start-column="86" selection-end-line="123" selection-end-column="86" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="136" selection-end-column="8" />
               <folding>
                 <element signature="e#167#173#0" expanded="true" />
               </folding>
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/books.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="493">
+              <caret line="130" column="108" selection-start-line="130" selection-start-column="108" selection-end-line="130" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -104,6 +104,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>wiki logo</find>
+      <find>IMDb logo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,13 +114,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/musics.html" />
         <option value="$PROJECT_DIR$/usefullinks.html" />
         <option value="$PROJECT_DIR$/contactme.html" />
         <option value="$PROJECT_DIR$/registration.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/films.html" />
+        <option value="$PROJECT_DIR$/books.html" />
       </list>
     </option>
   </component>
@@ -194,7 +195,8 @@
       <workItem from="1551516132665" duration="3240000" />
       <workItem from="1551617413646" duration="3893000" />
       <workItem from="1551624147656" duration="6624000" />
-      <workItem from="1551705538598" duration="6134000" />
+      <workItem from="1551705538598" duration="9395000" />
+      <workItem from="1551767910972" duration="2310000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1551626051427</created>
@@ -203,21 +205,35 @@
       <option name="project" value="LOCAL" />
       <updated>1551626051427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="films.html is done">
+      <created>1551716991317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551716991317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="films.html is done">
+      <created>1551717118099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551717118099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34357000" />
+    <option name="totallyTimeSpent" value="39928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -225,7 +241,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" visible="true" weight="0.18851571" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.18851571" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
@@ -301,7 +317,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="films.html is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="films.html is done" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
@@ -318,6 +335,16 @@
           <folding>
             <element signature="e#190#196#0" expanded="true" />
             <element signature="e#228#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/films.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="136" selection-end-column="8" />
+          <folding>
+            <element signature="e#167#173#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -361,18 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/films.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="123" column="86" selection-start-line="123" selection-start-column="86" selection-end-line="123" selection-end-column="86" />
-          <folding>
-            <element signature="e#167#173#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="493">
+          <caret line="130" column="108" selection-start-line="130" selection-start-column="108" selection-end-line="130" selection-end-column="108" />
         </state>
       </provider>
     </entry>
