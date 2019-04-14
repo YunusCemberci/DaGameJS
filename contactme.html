@@ -2,46 +2,67 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Web Site</title>
+    <title>Contact Me</title>
+
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/custom.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<h2 align="middle"><a href="index.html">Homepage</a> &nbsp; <a href="films.html">Films</a> &nbsp; <a href="books.html">Books</a>
-    &nbsp; <a href="musics.html">Musics</a> &nbsp; <a href="usefullinks.html">Links</a> &nbsp; <a href="contactme.html"><font size="+3">Contact</font></a> &nbsp; <a href="registration.html">Registration</a></h2>
 
-<br>
-<h1 align="middle">Contact</h1>
+<div class="container">
+    <nav>
+        <ul class="nav nav-tabs justify-content-center">
+            <li class="nav-item"><a class="nav-link" href="index.html">Homepage</a></li>
+            <li class="nav-item"><a class="nav-link" href="films.html">Films</a></li>
+            <li class="nav-item"><a class="nav-link" href="books.html">Books</a></li>
+            <li class="nav-item"><a class="nav-link" href="musics.html">Musics</a></li>
+            <li class="nav-item"><a class="nav-link" href="usefullinks.html">Links</a></li>
+            <li class="nav-item"><a class="nav-link active" href="contactme.html">Contact</a></li>
+            <li class="nav-item"><a class="nav-link" href="registration.html">Registration</a></li>
+        </ul>
+    </nav>
 
-<table align="center">
-    <tr>
-        <td>Full Name:</td>
-        <td> <input type="text"></td>
-    </tr>
-    <tr>
-        <td>E-Mail:</td>
-        <td><input type="email"></td>
-    </tr>
-    <tr>
-        <td>Phone Number (Max 11 Characters):</td>
-        <td><input type="text" maxlength="11"></td>
-    </tr>
-    <tr>
-        <td>Issue:</td>
-        <td><input type="text"></td>
-    </tr>
-    <tr>
-        <td>Message:</td>
-        <td><textarea></textarea></td>
-    </tr>
+    <article>
+
+        <br>
+        <h2 align="middle">Some Useful Links</h2>
+        <br>
+    </article>
+
+    <section>
+        <table align="center">
+        <tr>
+            <td>Full Name:</td>
+            <td> <input type="text"></td>
+        </tr>
+        <tr>
+            <td>E-Mail:</td>
+            <td><input type="email"></td>
+        </tr>
+        <tr>
+            <td>Phone Number (Max 11 Characters):</td>
+            <td><input type="text" maxlength="11"></td>
+        </tr>
+        <tr>
+            <td>Issue:</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Message:</td>
+            <td><textarea></textarea></td>
+        </tr>
 
         <td><input type="button" value="Send" onclick="alert('Your message has been sent')"></td>
 
-</table>
-<br>
+        </table>
 
-<h2 align="middle">OR</h2>
-<p align="middle">You can contact me via email here:<br>
-<a href="mailto:yunuscemberci@eskisehir.edu.tr">yunuscemberci@eskisehir.edu.tr</a>
-</p>
+        <br>
+
+        <h2 align="middle">OR</h2>
+        <p align="middle">You can contact me via email here:<br>
+            <a href="mailto:yunuscemberci@eskisehir.edu.tr">yunuscemberci@eskisehir.edu.tr</a>
+    </section>
+</div>
 
 </body>
 </html>

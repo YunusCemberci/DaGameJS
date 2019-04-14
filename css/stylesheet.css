@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    table.music_table{
+        overflow: auto;
+    width: 40%;
+    margin-bottom: 1rem;
+    color: #212529;}
+
+
+    table.music_table th, table.music_table td  {
+
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+}
+
+td > table{
+
+}
