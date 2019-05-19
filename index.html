@@ -2,39 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Web Site</title>
+    <title>Da Game</title>
+
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/custom.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="drawer.js"></script>
+    <style>
+        .canvas-container {
+            width: 100%;
+            text-align:center;
+        }
+
+        canvas {
+            display: inline;
+        }
+    </style>
+
 </head>
 <body>
-<div class="container">
-    <nav>
-        <ul class="nav nav-tabs justify-content-center">
-            <li class="nav-item"><a class="nav-link active" href="index.html">Homepage</a></li>
-            <li class="nav-item"><a class="nav-link" href="films.html">Films</a></li>
-            <li class="nav-item"><a class="nav-link" href="books.html">Books</a></li>
-            <li class="nav-item"><a class="nav-link" href="musics.html">Musics</a></li>
-            <li class="nav-item"><a class="nav-link" href="usefullinks.html">Links</a></li>
-            <li class="nav-item"><a class="nav-link" href="contactme.html">Contact</a></li>
-            <li class="nav-item"><a class="nav-link" href="registration.html">Registration</a></li>
-        </ul>
-    </nav>
-
-    <article>
-        <p align="middle" class="justify-content-center">
-        <img class="resizable" src="http://greenfilmnet.org/wp-content/uploads/welcome-2-1030x397.jpg"><br>
-
-        Username: <input name="Username" type="text"><br>
-        Password: <input name="Password" type="password"><br>
-        <input name="sign_in_button" type="button" value="Sign in"><br>
-        </p>
-        <br>
-        <h1 align="middle"> About Me</h1>
-        <p align="middle">
-            Hi! I'm Yunus. That's about it.<br>
-            You can contact me <a href="contactme.html">here</a> if you wish.
-        </p>
-    </article>
+<div class="canvas-container container justify-content-center align-content-center">
+    <br>
+<canvas height="600" width="600" id="canvas" style="border: 1px solid black" ></canvas>
 </div>
 </body>
 </html>
